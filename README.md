@@ -25,10 +25,11 @@ Successfully completed:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+like+coding)](https://git.io/typing-svg)
 
 My education projects:
-- [Task-shelter LINK](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/shelter/pages/main/main.html)  
-- [NewsAPI](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/migration-newip-to-ts/)  
-- [Minesweeper](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/minesweeper/)  
-- [RS-CSS](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/rs-css/)  
+- [Shelter. Web site](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/shelter/pages/main/main.html)  
+- [Virtual Keyboard](https://vitalyrk.github.io/virtualKeyboard/)
+- [Minesweeper. Game](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/minesweeper/)  
+- [RS-CSS. Game](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/rs-css/)
+- [Adaptive layout. Landing page](https://vitalyrk.github.io/LayoutAdaptiveLanding/)
 <!--
 **VitalyRK/VitalyRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
