@@ -7,7 +7,7 @@ I have completed several online courses in web development. I've been studying a
 
 Successfully completed:
 - [Frontend developer.HTML, CSS and JavaScript 2022 (Stepik platform)](https://stepik.org/cert/1951428?lang=en)
-- [RS School. JavaScript/Front-end 2023](https://rs.school/js/)
+- [RS School. JavaScript/Front-end 2023](https://app.rs.school/certificate/p4106336)
 - And lots of video tutorials on Youtube 🔭
 
 
