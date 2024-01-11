@@ -3,7 +3,7 @@
 <h4 align="center">My name is Vitaly. I am a frontend developer living in Belarus.</h4>
 
 <p>Welcome to my GitHub. Here you can view my educational projects. Main stack technologies are <b>Vanilla JS, TS, React, HTML, CSS</b></p>
-I have completed several online courses in web development. I've been studying and improving my skills for over a year.  
+I have completed several online courses in web development. I've been studying and improving my skills for almost two years.
 
 Successfully completed:
 - [Frontend developer.HTML, CSS and JavaScript 2022 (Stepik platform)](https://stepik.org/cert/1951428?lang=en)
