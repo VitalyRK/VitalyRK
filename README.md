@@ -26,6 +26,7 @@ Successfully completed:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+like+coding)](https://git.io/typing-svg)
 
 My education projects:
+- [My Portfolio](https://porfolio-nextjs-five.vercel.app/)  
 - [Shelter. Web site](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/shelter/pages/main/main.html)  
 - [Virtual Keyboard](https://vitalyrk.github.io/virtualKeyboard/)
 - [Minesweeper. Game](https://rolling-scopes-school.github.io/vitalyrk-JSFE2023Q1/minesweeper/)  
